@@ -58,3 +58,23 @@
       margin: 20px 0 0 50px;
     }
 }
+
+
+
+@media (min-width: 800px) {
+
+   .mobile-nav{
+    display: none;
+   }
+  #fa{
+      display: none;
+  }
+  .m1{
+      display: flex;
+      flex-direction: row;
+      justify-content: right;
+      margin-top: -6.5em;
+  }
+  
+  
+  }
